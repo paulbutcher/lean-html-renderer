@@ -1,0 +1,13 @@
+name = "test"
+defaultTargets = ["HtmlRendererTests"]
+testDriver = "HtmlRendererTests"
+
+[leanOptions]
+warningAsError = true
+
+[[require]]
+name = "html-renderer"
+path = ".."
+
+[[lean_lib]]
+name = "HtmlRendererTests"

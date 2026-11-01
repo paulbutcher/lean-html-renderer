@@ -1,0 +1,27 @@
+{"plugins": [],
+ "package": "test",
+ "options": {"warningAsError": true},
+ "name": "HtmlRendererTests",
+ "isModule": true,
+ "importArts":
+ {"HtmlRendererTests.Payload":
+  [["/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Payload.olean",
+    "/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Payload.olean.server"],
+   ["/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Payload.ir.sig",
+    "/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Payload.ir"]],
+  "HtmlRendererTests.Node":
+  [["/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Node.olean",
+    "/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Node.olean.server"],
+   ["/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Node.ir.sig",
+    "/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Node.ir"]],
+  "HtmlRendererTests.Escape":
+  [["/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Escape.olean",
+    "/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Escape.olean.server"],
+   ["/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Escape.ir.sig",
+    "/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Escape.ir"]],
+  "HtmlRendererTests.Document":
+  [["/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Document.olean",
+    "/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Document.olean.server"],
+   ["/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Document.ir.sig",
+    "/workspaces/lean-html-renderer/test/.lake/build/lib/lean/HtmlRendererTests/Document.ir"]]},
+ "dynlibs": []}

@@ -1,0 +1,17 @@
+{"plugins": [],
+ "package": "test",
+ "options": {"warningAsError": true},
+ "name": "HtmlRendererTests.Escape",
+ "isModule": true,
+ "importArts":
+ {"HtmlRenderer.Escape":
+  [["/workspaces/lean-html-renderer/.lake/build/lib/lean/HtmlRenderer/Escape.olean",
+    "/workspaces/lean-html-renderer/.lake/build/lib/lean/HtmlRenderer/Escape.olean.server"],
+   ["/workspaces/lean-html-renderer/.lake/build/lib/lean/HtmlRenderer/Escape.ir.sig",
+    "/workspaces/lean-html-renderer/.lake/build/lib/lean/HtmlRenderer/Escape.ir"]],
+  "HtmlRenderer.Dialect":
+  [["/workspaces/lean-html-renderer/.lake/build/lib/lean/HtmlRenderer/Dialect.olean",
+    "/workspaces/lean-html-renderer/.lake/build/lib/lean/HtmlRenderer/Dialect.olean.server"],
+   ["/workspaces/lean-html-renderer/.lake/build/lib/lean/HtmlRenderer/Dialect.ir.sig",
+    "/workspaces/lean-html-renderer/.lake/build/lib/lean/HtmlRenderer/Dialect.ir"]]},
+ "dynlibs": []}
