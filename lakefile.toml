@@ -1,0 +1,6 @@
+name = "html-renderer"
+version = "0.1.0"
+defaultTargets = ["HtmlRenderer"]
+
+[[lean_lib]]
+name = "HtmlRenderer"
