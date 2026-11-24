@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.2.0] - 2026-11-24
+
+* Breaking: Requires Lean v4.36.0
+* Requires html-model 0.5.0
+
 ## [0.1.1] - 2026-11-06
 
 * Requires html-model 0.4.1
